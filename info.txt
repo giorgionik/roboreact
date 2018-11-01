@@ -1,1 +1,1 @@
-info project
+info project v2.0
